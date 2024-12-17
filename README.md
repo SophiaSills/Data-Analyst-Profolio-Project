@@ -12,9 +12,12 @@ The company offers a range of health-focused smart products and services, includ
        3. How could these trends help influence Bellabeat marketing strategy?
        
 ### Business Tasks:
+      1.Analyze the provided dataset to uncover patterns and trends in health behaviors.
+      2.Present insights that can guide marketing efforts to increase Bellabeat’s market share.
+      3.Provide recommendations for product improvements or feature enhancements based on the data.
 
 
-## Prepare
+## Prepare data
  
 
 
