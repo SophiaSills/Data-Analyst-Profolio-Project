@@ -1,10 +1,22 @@
 # Bellabeat Wellness Technology Company 
 
-Project Background
+## Project Background
 
 Founded in 2013 by Urška Sršen and Sando Mur, Bellabeat creates health-focused smart products designed to empower women. By combining artistic design with technology, Bellabeat collects data on activity, sleep, stress, and reproductive health, helping women gain insights into their wellness. The company has quickly grown into a leading brand in tech-driven women's wellness.
  
 The company offers a range of health-focused smart products and services, including the Bellabeat app for tracking wellness metrics, the Leaf wearable tracker, the Time wellness watch, and the Spring smart water bottle. They also offer a subscription-based membership for personalized health and mindfulness guidance. 
+
+## ASK - questions for data analysis
+       1. what are some trends in smart device usage?
+       2. How could these trends apply to Bellabeat customers
+       3. How could these trends help influence Bellabeat marketing strategy?
+       
+### Business Tasks:
+
+
+## Prepare
+ 
+
 
 This project thoroughly analyzes and synthesizes one of the products or services data in order to uncover critical insights that will improve Bellabeat's commercial success.
 
